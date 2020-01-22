@@ -6,3 +6,4 @@
 * [**软件测试管理**](softtest/*.md)
 * [**测试工具介绍**](softtest/*.md)
 * [**常用协议介绍**](softtest/*.md)
+* [**性能测试**](softtest/performance.md)
