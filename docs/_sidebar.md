@@ -7,3 +7,4 @@
 * [**测试工具介绍**](softtest/*.md)
 * [**常用协议介绍**](softtest/*.md)
 * [**性能测试**](softtest/performance.md)
+* [**测试用例**](softtest/softtest.md)
