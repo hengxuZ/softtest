@@ -16,3 +16,7 @@
 - [ ] 学习Docker
 - [ ] 学习Jenkins
 - [x] linux与mysql
+
+### 参考书籍以及文档
+
+- Spring实战（第五版）
